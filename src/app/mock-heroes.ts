@@ -1,6 +1,6 @@
-import {Hero}from "./Hero";
+import {Hero} from "./hero";
 
-export const HEROES: Hero[] = [
+export const HEROES:Hero[] = [
 {id: 11, name: "Superman", edad: 30, poder: "Criptoniano", identidad: "Clark Kent", universo: "DC"},
 {id: 12, name: "Batman", edad: 30, poder: "Dinero", identidad: "Bruce Wayne", universo: "DC"},
 {id: 13, name: "Hulk", edad: 40, poder: "Fuerza", identidad: "Bruce Banner", universo: "Marvel"},
